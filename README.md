@@ -1,6 +1,6 @@
-### Hi there 👋
+<!--###  👋
 
-<!--
+
 **ufukyildiz55/ufukyildiz55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Hi 👋 I am Ufuk! 
+I'm a Front-End Developer working in Istanbul, Turkey.
+
+- 🔭 I’m currently working on [My Personal Website](https://ufukyildiz.net/)
+- ⚙️ I use daily: `.html`, `.css`, `.js`, `.php`
+- 🌱 I am currently learning **ReactJS**
+- 🌐 Visit my [personal website](https://ufukyildiz.net/) for complete background and contact.
+- 📫 Reach me: [Contact Form](https://ufukyildiz.net/iletisim)
