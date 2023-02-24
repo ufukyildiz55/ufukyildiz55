@@ -21,4 +21,4 @@ I'm a Front-End Developer working in Istanbul, Turkey.
 - ⚙️ I use daily: `.html`, `.css`, `.js`, `.php`
 - 🌱 I am currently learning **ReactJS**
 - 🌐 Visit my [personal website](https://ufukyildiz.net/) for complete background and contact.
-- 📫 Reach me: [Contact Form](https://ufukyildiz.net/iletisim)
+- 📫 Reach me: [Contact Form](https://ufukyildiz.net/contact)
